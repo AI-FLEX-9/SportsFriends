@@ -7,7 +7,7 @@ Dataset
 -	https://archive.org/details/YogaVidCollected 
 -	88 videos, a total of about 111,750 frames, 1h 6min 5s, at 30 frames/s, more than 45 s per video in an indoor environment 
 2) AI Hub
-- http://aihub.or.kr/aidata/138 의 VideoAction20.tar
+- http://aihub.or.kr/aidata/138 의 VideoAction20.tar(86.7GB)
 - Yoga : 5~10초 길이
 
 # 2. Output
