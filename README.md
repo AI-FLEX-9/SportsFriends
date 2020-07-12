@@ -15,7 +15,7 @@ Dataset
 # 3. Model 생성
 
 ## OpenPose 코드 적용 
-- [Openpose Video Test --hand, OpenPoseVideo.ipynb](OpenPoseVideo.ipynb)
+- [Openpose Video Test --hand, Bhumi_Trik.mp4, OpenPoseVideo.ipynb](OpenPoseVideo.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/OpenPoseVideo.ipynb)
 
 
