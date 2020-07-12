@@ -1,7 +1,7 @@
-#SportsFriends
+# SportsFriends
 SportsFriends is a system that can grade sports activities using Pose Estimation AI technology.
 
-#1. Input
+# 1. Input
 Dataset 
 1)	Training dataset 
 -	https://archive.org/details/YogaVidCollected 
@@ -10,11 +10,11 @@ Dataset
 - http://aihub.or.kr/aidata/138 의 VideoAction20.tar
 - Yoga : 5~10초 길이
 
-#2. Output
+# 2. Output
 
-#3. Model 생성
+# 3. Model 생성
 
-#4. Model 최적화 / 모바일 기기 배포
+# 4. Model 최적화 / 모바일 기기 배포
 - 정확도에 영향을 주지 않으면;서 모델크기를 줄이고 속도를 높이는 방법
 - 모델 계산 성능 상세분석
 - 휴대전화(iOS/Androoid), 브라우저에서 모델 실행
