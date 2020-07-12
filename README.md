@@ -1,6 +1,4 @@
-#2SpOuttsF
-#3. Model
-#4.riends
+#SportsFriends
 SportsFriends is a system that can grade sports activities using Pose Estimation AI technology.
 
 #1. Input
