@@ -14,6 +14,10 @@ Dataset
 
 # 3. Model 생성
 
+## OpenPose 코드 적용 
+- [Openpose](material/OpenPose_ipynb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-FLEX-9/SportsFriends/OpenPose_ipynb.ipynb)
+
+
 # 4. Model 최적화 / 모바일 기기 배포
 - 정확도에 영향을 주지 않으면;서 모델크기를 줄이고 속도를 높이는 방법
 - 모델 계산 성능 상세분석
