@@ -10,7 +10,7 @@ Dataset
 - http://aihub.or.kr/aidata/138 의 VideoAction20.tar(86.7GB)
 - Yoga : 5~10초 길이
 3) LHJ's yoga video 
-
+- Yoga : 2분 길이
 
 # 2. Output
 
