@@ -21,11 +21,14 @@ Dataset
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/Code/OpenPoseVideo.ipynb)
 
 
-# 4. Model 최적화 / 모바일 기기 배포
+# 4. Model 최적화
 - 정확도에 영향을 주지 않으면;서 모델크기를 줄이고 속도를 높이는 방법
 - 모델 계산 성능 상세분석
-- 휴대전화(iOS/Androoid), 브라우저에서 모델 실행
+- compute_PDJ_rescale.py
+- compute_OKS_rescale.py
 
-# 5. WEB test
+
+# 5. WEB / 모바일 기기 배포 
  - 결과물을 WEB 페이지 및 안드로이드용 APP으로 test 배포 
+ - 휴대전화(iOS/Androoid), 브라우저에서 모델 실행
  - https://sportsfriends.netlify.com
