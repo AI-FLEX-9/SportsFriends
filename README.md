@@ -27,5 +27,5 @@ Dataset
 - 휴대전화(iOS/Androoid), 브라우저에서 모델 실행
 
 # 5. WEB test
- - 결과물을 WEB 페이지에 test 배포
+ - 결과물을 WEB 페이지 및 안드로이드용 APP으로 test 배포 
  - https://sportsfriends.netlify.com
