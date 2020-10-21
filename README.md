@@ -20,9 +20,20 @@ Dataset
 
 # 3. Model 생성
 
-## OpenPose 코드 적용 
+## OpenPose 코드 적용_origin 
 - [Openpose Video Test --hand, Data/Bhumi_Trik.mp4, OpenPoseVideo.ipynb](OpenPoseVideo.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/Code/OpenPoseVideo.ipynb)
+
+## OpenPose 코드 적용_1 
+- [Openpose Video Test --hand, LHJ's yoga video, openpose_yoga.ipynb](openpose_yoga.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/Lab/yje/openpose_yoga.ipynb)
+## OpenPose 코드 적용_2 
+- [Openpose Video Test --hand, LHJ's yoga video, openPose_googleDrive.ipynb](openPose_googleDrive.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/Lab/yje/openPose_googleDrive.ipynb)
+
+## OpenPose 코드 적용_3 
+- [Openpose Video Test --hand, LHJ's yoga video, lightopenpose_2d.ipynb](lightopenpose_2d.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/Lab/yje/lightopenpose_2d.ipynb)
 
 
 # 4. Model 최적화
