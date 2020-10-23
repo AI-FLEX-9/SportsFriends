@@ -1,6 +1,10 @@
 # SportsFriends
 SportsFriends is a system that can grade sports activities using Pose Estimation AI technology.
 
+<p align="left">
+  <img src="Docs/AIFlex9.gif" width="640"/>
+</p>
+
 # 1. Input
 Dataset 
 1) Training dataset 
@@ -16,16 +20,30 @@ Dataset
 
 # 3. Model 생성
 
-## OpenPose 코드 적용 
+## OpenPose 코드 적용_origin 
 - [Openpose Video Test --hand, Data/Bhumi_Trik.mp4, OpenPoseVideo.ipynb](OpenPoseVideo.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/Code/OpenPoseVideo.ipynb)
 
+## OpenPose 코드 적용_1 
+- [Openpose Video Test --hand, LHJ's yoga video, openpose_yoga.ipynb](openpose_yoga.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/Lab/yje/openpose_yoga.ipynb)
+## OpenPose 코드 적용_2 
+- [Openpose Video Test --hand, LHJ's yoga video, openPose_googleDrive.ipynb](openPose_googleDrive.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/Lab/yje/openPose_googleDrive.ipynb)
 
-# 4. Model 최적화 / 모바일 기기 배포
+## OpenPose 코드 적용_3 
+- [Openpose Video Test --hand, LHJ's yoga video, lightopenpose_2d.ipynb](lightopenpose_2d.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//AI-FLEX-9/SportsFriends/blob/master/Lab/yje/lightopenpose_2d.ipynb)
+
+
+# 4. Model 최적화
 - 정확도에 영향을 주지 않으면;서 모델크기를 줄이고 속도를 높이는 방법
 - 모델 계산 성능 상세분석
-- 휴대전화(iOS/Androoid), 브라우저에서 모델 실행
+- compute_PDJ_rescale.py
+- compute_OKS_rescale.py
 
-# 5. WEB test
- - 결과물을 WEB 페이지에 test 배포
+
+# 5. WEB / 모바일 기기 배포 
+ - 결과물을 WEB 페이지 및 안드로이드용 APP으로 test 배포 
+ - 휴대전화(iOS/Androoid), 브라우저에서 모델 실행
  - https://sportsfriends.netlify.com
